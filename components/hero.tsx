@@ -63,7 +63,7 @@ export default function Hero() {
         <AnimatedSection animation="fade-in" delay={300}>
           <Image
             className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full transition-all duration-700 hover:opacity-90"
-            src="/placeholder.svg?height=600&width=800"
+            src="/thisisengineering-w_zE6qlkQKA-unsplash.jpg"
             alt="Development Circle Community"
             width={800}
             height={600}
